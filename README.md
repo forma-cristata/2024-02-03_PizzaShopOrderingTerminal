@@ -11,7 +11,7 @@ A spooky-themed food ordering console application that brings a touch of horror 
 - Delivery option available with automatic tax calculation
 - Customer review system that stores feedback
 
-## Visual Elements
+## Visual Elements 
 
 - Custom console colors for enhanced readability
 - Centered text formatting for important messages
